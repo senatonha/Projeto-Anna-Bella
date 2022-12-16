@@ -1,0 +1,49 @@
+body{
+    background: #d2d2c1 url('../img/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+    width: 100%;
+
+}
+#principal{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+#menu{
+    background: #d2d2c1;
+    padding: 15px;
+    align-items: center;
+    text-align: center;
+    border: 3px solid #e8e8d2;
+}
+#conteudo{
+    background: #e8e8d2;
+    padding: 10px;
+    margin-top: 5px;
+}
+#rodape{
+    text-align: center;
+    margin-top: 5px;
+}
+img{
+    align-items: center;
+    width: 100%;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+.img-campanha{
+    width: 100%;
+    align-items: center;
+}
+#contato{
+    text-align: center;
+}
